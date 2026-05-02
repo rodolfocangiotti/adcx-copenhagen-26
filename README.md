@@ -20,3 +20,12 @@ Here is a list of useful contents to dive deeper in the topics of my talk:
   - server-side application - [link](https://github.com/rodolfocangiotti/MuSNet-Server)
   - client-side library - [link](https://github.com/rodolfocangiotti/MuSNet-Client)
 - Max object prototype source code - [link](https://github.com/rodolfocangiotti/min-devkit/blob/musnet_client_object__beta/source/projects/min.musnet.client_tilde/min.musnet.client_tilde.cpp)
+
+## Trivia
+Are you curious about the meaning of the picture at page 3, in the presentation? In my opinion, that is one of the most interesting Networked Music Performance which I have ever seen, as of now: musicians from different boats in Ancona harbour were performing Stockhausen's Solo using microphones and speakers connected via a wireless network, during Acusmatiq Festival. Short excerpt of the performance [here]( https://www.facebook.com/SOLO.Nr19/videos/kstockhausen-solo-nr19-version-i-efrancioni-cbacusmatiq-90-waterfront-venerdì-25/1444555452476080/). More information inside the book mentioned above.
+
+## Talk Feedback
+Feedback is always welcome, even if it is a critique. If you want to anonymously leave it, [here](https://forms.gle/BG4nNRGc29RqA29y6) is the form.
+
+## Special Thanks
+A sincere thank you to Adriana Tenan, for providing hints regarding the speech and related slides.
